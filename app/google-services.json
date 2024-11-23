@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533926846108",
+    "project_id": "proyecto-ae300",
+    "storage_bucket": "proyecto-ae300.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533926846108:android:0ee0ad698b0edc7d355759",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-vdhAoc1qNnQxQ7wh4tnqzRbIBAyA2nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
